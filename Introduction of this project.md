@@ -5,6 +5,7 @@ This project for my Coursera IBM Applied Data Science Capstone
 Week 4&5 Final Project
 
 1. Introduction
+
 1.1 The research problem and background
 Taxi is one of the most important urban trip model, however, when we are planning a trip riding a Uber or Lyft vehicle, we can see an estimated price if we try navigation APPs like Google Map. This is a project motivated by the lack of taxi trip cost estimation supported by APPs. Also, how do taxi drivers maximize their probability to get more business? The fact of this market of rideshare is dominated by Uber and Lyft by 2018, the market share in reimbursement of taxi decreased to 5.2% by Q2 of 2018. This project is trying to figure out the patterns of taxi trips origins and destinations in a day.
 
